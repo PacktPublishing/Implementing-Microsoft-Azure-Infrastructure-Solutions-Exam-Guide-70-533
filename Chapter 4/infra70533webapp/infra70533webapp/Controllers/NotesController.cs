@@ -30,12 +30,12 @@ namespace Infra70533webapp.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            InfraNote todo = db.notes.Find(id);
-            if (todo == null)
+            InfraNote note = db.notes.Find(id);
+            if (note == null)
             {
                 return HttpNotFound();
             }
-            return View(todo);
+            return View(note);
         }
 
         // GET: Notes/Create
@@ -50,7 +50,7 @@ namespace Infra70533webapp.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Description,CreatedDate")] InfraNote note)
+        public ActionResult Create([Bind(Include = "Name, Description,CreatedDate")] InfraNote note)
         {
             Trace.WriteLine("POST /Notes/Create");
             if (ModelState.IsValid)
@@ -71,12 +71,12 @@ namespace Infra70533webapp.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            InfraNote todo = db.notes.Find(id);
-            if (todo == null)
+            InfraNote note = db.notes.Find(id);
+            if (note == null)
             {
                 return HttpNotFound();
             }
-            return View(todo);
+            return View(note);
         }
 
         // POST: Notes/Edit/5
@@ -84,7 +84,7 @@ namespace Infra70533webapp.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "id,Description,CreatedDate")] InfraNote note)
+        public ActionResult Edit([Bind(Include = "id, Name, Description,CreatedDate")] InfraNote note)
         {
             Trace.WriteLine("POST /Notes/Edit/" + note.ID);
             if (ModelState.IsValid)
@@ -104,12 +104,12 @@ namespace Infra70533webapp.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            InfraNote todo = db.notes.Find(id);
-            if (todo == null)
+            InfraNote note = db.notes.Find(id);
+            if (note == null)
             {
                 return HttpNotFound();
             }
-            return View(todo);
+            return View(note);
         }
 
         // POST: Notes/Delete/5
@@ -118,8 +118,8 @@ namespace Infra70533webapp.Controllers
         public ActionResult DeleteConfirmed(int id)
         {
             Trace.WriteLine("POST /Notes/Delete/" + id);
-            InfraNote todo = db.notes.Find(id);
-            db.notes.Remove(todo);
+            InfraNote note = db.notes.Find(id);
+            db.notes.Remove(note);
             db.SaveChanges();
             return RedirectToAction("Index");
         }

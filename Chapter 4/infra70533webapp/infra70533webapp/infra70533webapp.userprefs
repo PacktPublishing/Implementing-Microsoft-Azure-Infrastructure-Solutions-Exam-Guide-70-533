@@ -1,25 +1,38 @@
 ﻿<Properties StartupConfiguration="{F3250AB4-90E2-43F4-9260-B1CB7CB2188F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="App_Start/RouteConfig.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/_ViewStart.cshtml">
     <Files>
-      <File FileName="Controllers/NotesController.cs" Line="27" Column="10" />
-      <File FileName="Models/InfraNote.cs" Line="6" Column="27" />
+      <File FileName="Controllers/NotesController.cs" Line="123" Column="30" />
+      <File FileName="Models/InfraNote.cs" Line="13" Column="25" />
       <File FileName="Models/MyDatabaseContext.cs" Line="22" Column="74" />
-      <File FileName="Global.asax.cs" Line="16" Column="25" />
+      <File FileName="Global.asax.cs" Line="22" Column="1" />
       <File FileName="App_Start/BundleConfig.cs" Line="1" Column="1" />
       <File FileName="App_Start/FilterConfig.cs" Line="1" Column="1" />
       <File FileName="App_Start/RouteConfig.cs" Line="1" Column="1" />
+      <File FileName="Views/Notes/Create.cshtml" Line="22" Column="63" />
+      <File FileName="Views/Notes/Delete.cshtml" Line="21" Column="1" />
+      <File FileName="Views/Notes/Details.cshtml" Line="20" Column="1" />
+      <File FileName="Views/Notes/Edit.cshtml" Line="24" Column="63" />
+      <File FileName="Views/Notes/Index.cshtml" Line="15" Column="53" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="6" Column="59" />
+      <File FileName="Views/Shared/Error.cshtml" Line="1" Column="1" />
+      <File FileName="Views/_ViewStart.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="infra70533webapp" expanded="True">
             <Node name="infra70533webapp" expanded="True">
-              <Node name="App_Start" expanded="True">
-                <Node name="RouteConfig.cs" selected="True" />
-              </Node>
+              <Node name="App_Start" expanded="True" />
               <Node name="Content" expanded="True" />
               <Node name="Controllers" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Notes" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="TodosDone" expanded="True">
+                  <Node name="Create.cshtml" selected="True" />
+                </Node>
+              </Node>
               <Node name="Global.asax" expanded="True" />
             </Node>
           </Node>
