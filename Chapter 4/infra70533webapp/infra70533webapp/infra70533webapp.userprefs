@@ -21,7 +21,7 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="infra70533webapp" expanded="True">
-            <Node name="infra70533webapp" expanded="True">
+            <Node name="infra70533webapp" expanded="True" selected="True">
               <Node name="App_Start" expanded="True" />
               <Node name="Content" expanded="True" />
               <Node name="Controllers" expanded="True" />
@@ -29,9 +29,7 @@
               <Node name="Views" expanded="True">
                 <Node name="Notes" expanded="True" />
                 <Node name="Shared" expanded="True" />
-                <Node name="TodosDone" expanded="True">
-                  <Node name="Create.cshtml" selected="True" />
-                </Node>
+                <Node name="TodosDone" expanded="True" />
               </Node>
               <Node name="Global.asax" expanded="True" />
             </Node>
