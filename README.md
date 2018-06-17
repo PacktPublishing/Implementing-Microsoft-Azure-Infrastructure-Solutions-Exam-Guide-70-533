@@ -6,12 +6,26 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 
 ## Index 
+
+CHAPTER 1: Overview of Microsoft Azure
+
+CHAPTER 2: Implementing and managing Azure Virtual Machines 
+
 CHAPTER 3: Implementing and managing Containers in Azure: 
 infra-start-app ( node.js )
 
-CHARPTER 4 : 
+CHARPTER 4 : Designing and implementing Azure App Service Apps
 start-app ( asp.net MVC )
 basic-app ( asp.net MVC + Azure SQL )
+
+CHARPTER 5 : Implementing and managing Azure Virtual Networks
+
+CHARPTER 6 : Managing Azure identities 
+
+CHARPTER 7 : Planning and implementing Azure Storage,  Backup and Recovery Services
+
+CHARPTER 8 : Manage Azure Operations and Automation
+
 
 More details on : 
 https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
