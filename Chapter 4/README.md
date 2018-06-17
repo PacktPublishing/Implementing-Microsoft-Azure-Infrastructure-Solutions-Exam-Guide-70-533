@@ -1,11 +1,12 @@
 # CHARPTER 4 : Designing and implementing Azure App Service Apps
 
 01-Apps: 
-Infra70533StartApp : sample application in section Real life scenario: Deploying basic web application that uses Azure App Service  via Visual Studio 2017
+Infra70533StartApp : 
+Sample application in section Real life scenario - Deploying basic web application that uses Azure App Service via Visual Studio 2017
 
 
 02-Scripts : 
-Creaeting web app by Azure CLI, Azure PowerShell, and ARM Template
+Creating web app by Azure CLI, Azure PowerShell, and ARM Template
 
 
 
