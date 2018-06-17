@@ -16,7 +16,6 @@ infra-start-app ( node.js )
 
 CHARPTER 4 : Designing and implementing Azure App Service Apps
 start-app ( asp.net MVC )
-basic-app ( asp.net MVC + Azure SQL )
 
 CHARPTER 5 : Implementing and managing Azure Virtual Networks
 
