@@ -6,10 +6,11 @@ Sample application in section Real life scenario - Deploying basic web applicati
 
 
 02-Scripts : 
-Creating web app by Azure CLI, Azure PowerShell, and ARM Template
+Creating web app by Azure CLI, Azure PowerShell, and script to deploy ARM Template ( ref : 03-ARM folder )
 
 
-
+ 03-ARM : 
+ Creating web app by ARM template
 
 Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
 Author : Melony QIN
