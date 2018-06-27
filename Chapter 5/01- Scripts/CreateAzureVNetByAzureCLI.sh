@@ -1,4 +1,4 @@
-
+#!/bin/bash
 
 az group create --name infra-70533-rg --location 'West Europe'
 
