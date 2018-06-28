@@ -12,10 +12,9 @@ CHAPTER 1: Overview of Microsoft Azure
 CHAPTER 2: Implementing and managing Azure Virtual Machines 
 
 CHAPTER 3: Implementing and managing Containers in Azure: 
-infra-start-app ( node.js )
 
 CHARPTER 4 : Designing and implementing Azure App Service Apps
-start-app ( asp.net MVC )
+
 
 CHARPTER 5 : Implementing and managing Azure Virtual Networks
 
