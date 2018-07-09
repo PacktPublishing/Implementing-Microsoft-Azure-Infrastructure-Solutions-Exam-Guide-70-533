@@ -27,8 +27,12 @@ CHARPTER 8 : Manage Azure Operations and Automation
 ## Folders
 
 00 - Apps  : Sample application mentionned in the book
+
 01 - Scripts : Sample Azure PowerShell scripts or Bash scripts mentionned in the book
+
 02 - ARM : Sample ARM templates mentionned in the book
 
+
+## References 
 More details on : 
 https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
