@@ -32,7 +32,10 @@ CHARPTER 8 : Manage Azure Operations and Automation
 
 02 - ARM : Sample ARM templates mentionned in the book
 
+## Feedback
+Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
 
-## References 
+
+## Learn More
 More details on : 
 https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
