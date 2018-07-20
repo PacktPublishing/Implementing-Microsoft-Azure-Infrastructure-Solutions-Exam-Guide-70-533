@@ -35,15 +35,22 @@ CHARPTER 8 : Manage Azure Operations and Automation
 ## Software list
 
 Virsual Studio Community 2017 , Virsual Studio Code and VVisual Studio Team Service (VSTS)
+
 https://visualstudio.microsoft.com/downloads/
 
+
 Azure Storage Explorer
+
 https://azure.microsoft.com/en-us/features/storage-explorer/
 
+
 Azure Powershell ( Doc and download link depends on your OS )
+
 https://docs.microsoft.com/fr-fr/powershell/azure/install-azurerm-ps?view=azurermps-6.5.0
 
+
 Azure CLI  ( Doc and download link depends on your OS )
+
 https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli?view=azure-cli-latest
 
 ## Feedback
