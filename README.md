@@ -43,6 +43,9 @@ Azure Storage Explorer
 
 https://azure.microsoft.com/en-us/features/storage-explorer/
 
+Windows PowerShell ISE 
+
+https://docs.microsoft.com/en-us/powershell/scripting/core-powershell/ise/introducing-the-windows-powershell-ise?view=powershell-6
 
 Azure Powershell ( Doc and download link depends on your OS )
 
