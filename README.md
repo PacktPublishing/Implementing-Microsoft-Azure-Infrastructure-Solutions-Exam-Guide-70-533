@@ -59,6 +59,7 @@ https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli?view=azure-cli-late
 ## Feedback
 Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
 
+You can also visit author's blog : www.cloud-melon.com  or @MelonyQ on Twitter
 
 ## Learn More
 More details on : 
