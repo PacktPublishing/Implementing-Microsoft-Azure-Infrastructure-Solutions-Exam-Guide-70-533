@@ -66,3 +66,6 @@ You can also visit author's blog : www.cloud-melon.com  or @MelonyQ on Twitter
 ## Learn More
 More details on : 
 https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
+
+## Licence 
+MIT License
