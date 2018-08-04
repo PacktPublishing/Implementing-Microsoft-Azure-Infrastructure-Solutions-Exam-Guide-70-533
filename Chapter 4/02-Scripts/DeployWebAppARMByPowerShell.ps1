@@ -12,4 +12,4 @@ $location="West Europe"
 
 New-AzureRmResourceGroup -Name $resgroupname -Location $location
 
-New-AzureRmResourceGroupDeployment -Name $webappname -ResourceGroupName $resgroupname -TemplateFile ./03-ARM/AzureDeploy.json -TemplateParameterFile  ./03-ARM/AzureDeploy.Parameters.json
+New-AzureRmResourceGroupDeployment -Name $webappname -ResourceGroupName $resgroupname -TemplateFile ./03-ARM/Create-web-app/AzureDeploy.json -TemplateParameterFile  ./03-ARM/Create-web-app/AzureDeploy.Parameters.json
