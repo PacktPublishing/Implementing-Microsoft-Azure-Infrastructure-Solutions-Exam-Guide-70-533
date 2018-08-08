@@ -58,6 +58,20 @@ Azure CLI  ( Documentation and download link depends on your OS )
 
 https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli?view=azure-cli-latest
 
+## Mentioned Azure Services list
+
+Azure Virtual Machine ( Linux & Windows )
+Azure Virtual Network 
+Azure App Service ( Web App ) 
+Azure Kubernetes Service 
+Azure Container Service
+Log Analytics
+Azure Backup
+Azure Site Recovery
+Azure ExpressRoute
+Application Gateway
+
+
 ## Feedback
 Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
 
