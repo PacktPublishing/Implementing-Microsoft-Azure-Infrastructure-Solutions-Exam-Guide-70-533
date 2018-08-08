@@ -61,15 +61,29 @@ https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli?view=azure-cli-late
 ## Mentioned Azure Services list
 
 Azure Virtual Machine ( Linux & Windows )
+
 Azure Virtual Network 
+
 Azure App Service ( Web App ) 
+
 Azure Kubernetes Service 
+
 Azure Container Service
+
+Azure Container Registry
+
 Log Analytics
+
+Azure Monitor
+
 Azure Backup
+
 Azure Site Recovery
+
 Azure ExpressRoute
+
 Application Gateway
+
 
 
 ## Feedback
