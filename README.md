@@ -84,7 +84,9 @@ Azure ExpressRoute
 
 Application Gateway
 
+Azure AD
 
+Azure Key Vaut
 
 ## Feedback
 Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
