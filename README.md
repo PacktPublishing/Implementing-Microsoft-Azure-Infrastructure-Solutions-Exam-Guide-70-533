@@ -82,11 +82,19 @@ Azure Site Recovery
 
 Azure ExpressRoute
 
+Azure VPN Gateway ( Virtual network gateway, local network gateway )
+
 Application Gateway
 
-Azure AD
+Azure AD ( Azure Active Directory )
+
+Azure AD Domain Services
+
+Azure AD Connect Health
 
 Azure Key Vaut
+
+Azure Security Center
 
 ## Feedback
 Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
