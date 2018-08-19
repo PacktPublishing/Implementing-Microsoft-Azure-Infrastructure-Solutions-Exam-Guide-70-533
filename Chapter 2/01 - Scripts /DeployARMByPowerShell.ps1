@@ -6,10 +6,10 @@ Set-AzureRmContext -Subscription $subscription
 
 
 # Create a resource group.
-$webappname="infra70533pswebapp"
-$resgroupname = "infra70533pswebapp-rg"
+$deploymentname="infra70533deployment"
+$resgroupname = "infra70533-rg"
 $location="West Europe"
 
 New-AzureRmResourceGroup -Name $resgroupname -Location $location
 
-New-AzureRmResourceGroupDeployment -Name $webappname -ResourceGroupName $resgroupname -TemplateFile ./03-ARM/AzureDeploy.json -TemplateParameterFile  ./03-ARM/AzureDeploy.Parameters.json
+New-AzureRmResourceGroupDeployment -Name $deploymentname -ResourceGroupName $resgroupname -TemplateFile ./02-ARM/AzureDeploy.json -TemplateParameterFile  ./02-ARM/AzureDeploy.Parameters.json
