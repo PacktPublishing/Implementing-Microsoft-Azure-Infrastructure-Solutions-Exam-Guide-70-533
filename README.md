@@ -7,7 +7,7 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 ## Chapters 
 
-Introduction to Cloud Computing
+CHAPTER 0: Introduction to Cloud Computing
 
 CHAPTER 1: Overview of Microsoft Azure
 
@@ -86,7 +86,11 @@ Azure VPN Gateway ( Virtual network gateway, local network gateway )
 
 Application Gateway
 
+Traffic Manager 
+
 Azure AD ( Azure Active Directory )
+
+Azure B2C ( Business to Customer )
 
 Azure AD Domain Services
 
@@ -95,6 +99,8 @@ Azure AD Connect Health
 Azure Key Vaut
 
 Azure Security Center
+
+
 
 ## Feedback
 Create an issue here, to send your direct feedback, we'll get back to you as soon as possible.
