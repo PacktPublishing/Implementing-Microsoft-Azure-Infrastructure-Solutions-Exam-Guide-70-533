@@ -5,7 +5,7 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 
 
-## CHAPTER 1: Overview of Microsoft Azure 
+## CHARPTER 8 : Manage Azure Operations and Automation
 
 
 

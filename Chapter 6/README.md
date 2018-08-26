@@ -5,8 +5,7 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 
 
-## CCHARPTER 6 : Managing Azure identities
-
+## CHARPTER 5 : Implementing and managing Azure Virtual Networks
 
 
 

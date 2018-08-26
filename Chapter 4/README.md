@@ -1,24 +1,19 @@
-# CHARPTER 4 : Designing and implementing Azure App Service Apps
+# Implementing Microsoft Azure Infrastructure Solutions Exam Guide-70-533 
+This repository stores Sample code in Chapter 2 mentionned in the book:
 
-01-Apps: 
-Infra70533StartApp : 
-Sample application in section Real life scenario - Deploying basic web application that uses Azure App Service via Visual Studio 2017
-
-
-02-Scripts : 
-Creating web app by Azure CLI, Azure PowerShell, and script to deploy ARM Template ( ref : 03-ARM folder )
+Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Published by Packt
 
 
- 03-ARM : 
- Creating web app by ARM template
 
-Implementing Microsoft Azure Infrastructure Solutions : Exam Guide 70-533
-Author : Melony QIN
+## CHAPTER 3: Implementing and managing Containers in Azure
 
-More details on :
+## Kubernetes
+
+Helm :
+Helm is a great tool to help users define, install, and upgrade even Kubernetes application. Here are the reference sites and github repository : 
+https://helm.sh/
+https://github.com/helm/helm
+
+
+More details on : 
 https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533
-
-
-
-
-

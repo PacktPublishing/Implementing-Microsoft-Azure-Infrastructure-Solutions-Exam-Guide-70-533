@@ -5,7 +5,7 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 
 
-## CHARPTER 8 : Manage Azure Operations and Automation
+## CHARPTER 7 : Planning and implementing Azure Storage, Backup and Recovery Services
 
 
 

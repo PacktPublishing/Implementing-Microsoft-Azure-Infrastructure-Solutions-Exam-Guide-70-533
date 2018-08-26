@@ -5,7 +5,7 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 
 
-## CHAPTER 2: Implementing and managing Azure Virtual Machines 
+## CHAPTER 1: Overview of Microsoft Azure 
 
 
 
