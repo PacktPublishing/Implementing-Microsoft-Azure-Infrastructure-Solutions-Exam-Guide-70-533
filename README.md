@@ -7,24 +7,24 @@ Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533 Publish
 
 ## Chapters 
 
-CHAPTER 0: Introduction to Cloud Computing
+CHAPTER 1: Introduction to Cloud Computing
 
-CHAPTER 1: Overview of Microsoft Azure
+CHAPTER 2: Overview of Microsoft Azure
 
-CHAPTER 2: Implementing and managing Azure Virtual Machines 
+CHAPTER 3: Implementing and managing Azure Virtual Machines 
 
-CHAPTER 3: Implementing and managing Containers in Azure: 
+CHAPTER 4: Implementing and managing Containers in Azure: 
 
-CHARPTER 4 : Designing and implementing Azure App Service Apps
+CHARPTER 5 : Designing and implementing Azure App Service Apps
 
 
-CHARPTER 5 : Implementing and managing Azure Virtual Networks
+CHARPTER 6 : Implementing and managing Azure Virtual Networks
 
-CHARPTER 6 : Managing Azure identities 
+CHARPTER 7 : Managing Azure identities 
 
-CHARPTER 7 : Planning and implementing Azure Storage,  Backup and Recovery Services
+CHARPTER 8 : Planning and implementing Azure Storage,  Backup and Recovery Services
 
-CHARPTER 8 : Manage Azure Operations and Automation
+CHARPTER 9 : Manage Azure Operations and Automation
 
 ## Folders
 
