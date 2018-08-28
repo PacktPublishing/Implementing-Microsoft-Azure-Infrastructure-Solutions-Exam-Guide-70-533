@@ -4,4 +4,4 @@ param
     [String] $testname = "runbook"
 )
 
-Write-Host -NoNewLine $testname 'test ok'
+Write-Output ("$testname test ok")
