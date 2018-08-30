@@ -58,6 +58,7 @@ Azure CLI  ( Documentation and download link depends on your OS )
 
 https://docs.microsoft.com/fr-fr/cli/azure/install-azure-cli?view=azure-cli-latest
 
+
 ## Mentioned Azure Services list
 
 Azure Virtual Machine ( Linux & Windows )
@@ -74,6 +75,8 @@ Azure Container Registry
 
 Log Analytics
 
+Application Insights
+
 Azure Monitor
 
 Azure Backup
@@ -88,7 +91,7 @@ Application Gateway
 
 Traffic Manager 
 
-Azure AD ( Azure Active Directory )
+Azure AD ( Azure Active Directory ) & Azure B2B ( Business to Business )
 
 Azure B2C ( Business to Customer )
 
@@ -98,8 +101,7 @@ Azure AD Connect Health
 
 Azure Key Vaut
 
-Azure Security Center
-
+Azure Advisor
 
 
 ## Feedback
