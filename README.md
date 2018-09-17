@@ -53,7 +53,11 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Author
 **Melony QIN**
-Woman in STEM, she is a former Microsoft senior cloud computing technology evangelist currently working as a cloud solution architect, as well as an Azure e-learning instructor and blog author on AWS / Microsoft Azure. She is certified as an MCSD App Builder and Microsoft Cloud Solutions Expert (MCSE Cloud Platform and Infrastructure), and holds all five Azure certifications and is an AWS Certified Cloud Solutions Architect. She is also working on her contributions toward Open Source, serverless computing, DevOps, big data processing, artificial intelligence, machine learning and the IoT, working with different cloud platforms, such as Microsoft Azure, AWS, and GCP.
+Woman in STEM. She is currently working as a Cloud Solution Architect, she is also an Azure e-learning training courses Instructor and blog author on AWS / Microsoft Azure / GCP. She is certified as MCSD App Builder and MCSE Cloud Platform and Infrastructure who holds all 5 Azure certifications and AWS Certified Cloud Solutions Architect.
+
+In her professional life, she is mainly working closely with different multinational customers across different functional areas to come across different challenges in their digital transformation strategy, in order to help them be as successful as possible with their Azure projects. In addition, she is also working on her contributions towards open source technology, Serverless Computing, DevOps, Big Data, Artificial Intelligence, Machine Learning and IoT working with different cloud platforms such as Microsoft Azure, AWS, and GCP. 
+
+She thought as an IT professional, we should that being successful in IT is really about being a lifelong student. She believes learning by doing, hands-on is the king. She is also a member of the Association for Computing Machinery (ACM) and Project Management Institute (PMI). She can be reached on Twitter at @MelonyQ or her blog site: www.cloud-melon.com
 
 
 ### Suggestions and Feedback
