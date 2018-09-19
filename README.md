@@ -40,7 +40,7 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 01 | NA |  |
-| 02-10 | Amazon Azure Subscription | Windows, Mac OS X, and Linux (Any) |
+| 02-10 | Azure Subscription | Windows, Mac OS X, and Linux (Any) |
 
 
 
