@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533/9781789137958)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789137950).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533
 
 <a href="https://www.packtpub.com/virtualization-and-cloud/implementing-microsoft-azure-infrastructure-solutions-exam-guide-70-533?utm_source=github&utm_medium=repository&utm_campaign=9781789137958 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B010421.png" alt="Implementing Microsoft Azure Infrastructure Solutions: Exam Guide 70-533" height="256px" align="right"></a>
